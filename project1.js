@@ -59,4 +59,5 @@ for (let i = 1; i <= Number(numRounds); i++) {
 };
 
 window.alert(" You have won: " + userScore + "\n You have lost: "
-+ computerScore + "\n Total ties: " + totalTies + "\n Out of " + numRounds + " rounds.")
++ computerScore + "\n Total ties: " + totalTies + "\n Out of " + 
+numRounds + " rounds.")
